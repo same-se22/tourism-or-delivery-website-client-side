@@ -1,0 +1,9 @@
+.client-box{
+    background-color: #1E1E29;
+    padding: 60px;
+    box-shadow: rgba(252, 246, 243, 0.16) 0px 1px 4px;
+
+}
+.client-name{
+    color: cornsilk;
+}

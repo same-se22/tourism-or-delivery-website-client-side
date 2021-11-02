@@ -1,0 +1,48 @@
+[
+    {   
+        "id":"1",
+        "name":"Azerbaijan",
+        "title":"Garasu Volcano, Azerbaijan",
+        "price":750,
+        "img":"https://cdn.thecrazytourist.com/wp-content/uploads/2016/04/Mud-Volcano-768x432.jpg",
+        "dec":"Many visitors to Azerbaijan may not know that the country has the highest number of mud volcanoes in the world"},
+    {   
+        "id":"2",
+        "name":"Belgium",
+        "title":"Bruges, Belgium",
+        "price":750,
+        "img":"https://www.planetware.com/photos-large/B/belgium-bruges-belfry-2.jpg",
+        "dec":"Bruges began on the banks of the river Reie, and as it grew, so did a series of waterways connecting it to the Zwin estuary and the North Sea."},
+    {   
+        "id":"3",
+        "name":"Brazil",
+        "title":"Rio de Janeiro, Brazil",
+        "price":750,
+        "img":"https://www.planetware.com/photos-large/BRA/brazil-rio-de-janeiro-sugar-loaf.jpg",
+        "dec":"Rio's first settlement began below these peaks, near the long Praia da Urca beach, and you can tour one of the three early forts there, the star-shaped Fort São João."},
+    {   
+        "id":"4",
+        "name":"Nepal",
+        "title":"Bhaktapur, Nepal",
+        "price":750,
+        "img":"https://www.planetware.com/photos-large/NEP/nepal-bhaktapur-durbar-square.jpg",
+        "dec":"Bhaktapur, the third of the Royal Cities, lies on the old trade route to Tibet, just outside of Kathmandu"
+    },
+    {   
+        "id":"5",
+        "name":"Netherlands",
+        "title":"Anne Frank House, Netherlands",
+        "price":750,
+        "img":"https://www.planetware.com/photos-large/NL/netherlands-amsterdam-anne-frank-statue.jpg",
+        "dec":"The Anne Frank House is a must-see when in Amsterdam. On Prinsengracht, in the home where Anne's family hid for much of WWII"},
+    {   
+        "id":"6",
+        "name":"Mexico",
+        "title":"Alaska’s Coast, Mexico",
+        "price":750,
+        "img":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F12%2F12%2Fbear-lake-kenai-fjords-alaska-FIFTYBEST1220.jpg",
+        "dec":"In the midst of the pandemic, Alaska's entire May to September cruise season was cancelled in 2020."
+    }
+       
+    
+    ]
